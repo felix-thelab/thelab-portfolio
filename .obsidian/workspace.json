@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02_Lab_Logs/20206-05-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "20206-05-29"
             }
           }
         ]
@@ -184,5 +184,16 @@
     }
   },
   "active": "fa73bf7d5a2ab728",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "01_Daily_Notes/2026-05-29.md",
+    "02_Lab_Logs/20206-05-29.md",
+    "03_Projects/Hypervisor_Fundamentals.md",
+    "README.md",
+    "Unbenannt.canvas",
+    "03_Projects/Projekt_CLI-Grundlagen.md",
+    "02_Lab_Logs/2026-05-29.md",
+    "VirtualBox_Kali_Setup.md",
+    "2026-05-29.md",
+    "02_Lab_Logs/01_Infrastruktur"
+  ]
 }
